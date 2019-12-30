@@ -10,9 +10,10 @@
   <properties>
   
 	  <maven.compiler.source>1.8</maven.compiler.source>
-	  <maven.compiler.targer>1.8</maven.compiler.targer>
+	  <maven.compiler.target>1.8</maven.compiler.target>
   
   </properties>
+  
   <dependencies>
  <!-- https://mvnrepository.com/artifact/javax.servlet/javax.servlet-api -->
 <dependency>
